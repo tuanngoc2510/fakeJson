@@ -1,52 +1,54 @@
-[
-    {
-        "email": "user0@example.com",
-        "role": "admin",
-        "active": true
-    },
-    {
-        "email": "user1@example.com",
-        "role": "admin",
-        "active": true
-    },
-    {
-        "email": "user2@example.com",
-        "role": "admin",
-        "active": true
-    },
-    {
-        "email": "user3@example.com",
-        "role": "admin",
-        "active": true
-    },
-    {
-        "email": "user4@example.com",
-        "role": "viewer",
-        "active": true
-    },
-    {
-        "email": "user5@example.com",
-        "role": "viewer",
-        "active": false
-    },
-    {
-        "email": "user6@example.com",
-        "role": "editor",
-        "active": false
-    },
-    {
-        "email": "user7@example.com",
-        "role": "editor",
-        "active": false
-    },
-    {
-        "email": "user8@example.com",
-        "role": "viewer",
-        "active": false
-    },
-    {
-        "email": "user9@example.com",
-        "role": "editor",
-        "active": true
-    }
-]
+{
+    "users": [
+        {
+            "email": "user0@example.com",
+            "role": "admin",
+            "active": true
+        },
+        {
+            "email": "user1@example.com",
+            "role": "admin",
+            "active": true
+        },
+        {
+            "email": "user2@example.com",
+            "role": "admin",
+            "active": true
+        },
+        {
+            "email": "user3@example.com",
+            "role": "admin",
+            "active": true
+        },
+        {
+            "email": "user4@example.com",
+            "role": "viewer",
+            "active": true
+        },
+        {
+            "email": "user5@example.com",
+            "role": "viewer",
+            "active": false
+        },
+        {
+            "email": "user6@example.com",
+            "role": "editor",
+            "active": false
+        },
+        {
+            "email": "user7@example.com",
+            "role": "editor",
+            "active": false
+        },
+        {
+            "email": "user8@example.com",
+            "role": "viewer",
+            "active": false
+        },
+        {
+            "email": "user9@example.com",
+            "role": "editor",
+            "active": true
+        }
+    ]
+}
