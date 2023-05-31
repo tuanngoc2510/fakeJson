@@ -24,31 +24,6 @@
             "email": "user4@example.com",
             "role": "viewer",
             "active": true
-        },
-        {
-            "email": "user5@example.com",
-            "role": "viewer",
-            "active": false
-        },
-        {
-            "email": "user6@example.com",
-            "role": "editor",
-            "active": false
-        },
-        {
-            "email": "user7@example.com",
-            "role": "editor",
-            "active": false
-        },
-        {
-            "email": "user8@example.com",
-            "role": "viewer",
-            "active": false
-        },
-        {
-            "email": "user9@example.com",
-            "role": "editor",
-            "active": true
         }
     ]
 }
